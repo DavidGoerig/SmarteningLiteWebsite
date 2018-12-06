@@ -1,0 +1,2 @@
+# SmarteningLiteWebsite
+Smartening Lite Website
